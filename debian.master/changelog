@@ -6,6 +6,13 @@ linux (3.17.0-0.1) UNRELEASED; urgency=low
 
   [ Upstream Kernel Changes ]
 
+  * rebase to v3.18-rc1
+    - LP: #1316518
+    - LP: #1371591
+    - LP: #1357928
+
+  [ Upstream Kernel Changes ]
+
   * rebase to v3.17
 
   [ Upstream Kernel Changes ]
